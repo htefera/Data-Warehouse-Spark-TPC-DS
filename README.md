@@ -1,1 +1,1 @@
-# TPC-DS Data warehousing benchmarking using Spark and MYSQL
+# TPC-DS benchmark with Spark and MySQL
